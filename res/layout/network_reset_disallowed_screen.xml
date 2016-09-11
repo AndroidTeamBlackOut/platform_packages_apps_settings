@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
 /*
- * Copyright (C) 2015 The Android Open Source Project
+ * Copyright (C) 2016 The Android Open Source Project
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -26,8 +26,8 @@
                 android:layout_height="match_parent"
                 android:drawSelectorOnTop="false"
                 android:scrollbarStyle="insideOverlay"
-                android:background="@android:color/white"
-                android:cacheColorHint="@android:color/white"
+                android:background="@color/background_color_white"
+                android:cacheColorHint="@color/background_color_white"
                 android:fadingEdgeLength="16dip" />
 
         <TextView android:id="@android:id/empty"
