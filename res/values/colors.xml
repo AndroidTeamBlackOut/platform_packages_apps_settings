@@ -153,7 +153,12 @@
     <color name="storage_volume_color_private4">#ffec407a</color> <!-- pink -->
     <color name="storage_volume_color_private5">#ffc0ca33</color> <!-- green -->
     <color name="eject_icon_tint_color">#8a000000</color>
+
     <color name="text_color_white">@android:color/white</color>
     <color name="text_color_black">@android:color/black</color>
     <color name="background_color_white">@android:color/white</color>
+
+    <!-- Power Usage Hard colors-->
+
+    <color name="power_usage_ab_icon_tint">@android:color/white</color>
 </resources>
